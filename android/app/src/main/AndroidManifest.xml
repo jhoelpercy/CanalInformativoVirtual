@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
     <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
     <application
-        android:label="canal_informativo_virtual"
+        android:label="Canal Informativo Virtual"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
